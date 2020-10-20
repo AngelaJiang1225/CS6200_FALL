@@ -1,0 +1,4 @@
+# A file named requirements.txt which contains the list of installed packages, in requirements
+# format. This makes evaluation easier and is good dev practice. You can get this file using the
+# command
+# pip freeze > requirements.txt
