@@ -1,0 +1,540 @@
+role
+['role']
+1	289.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Liverpool - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBre
+1.0
+role:1.0; 
+
+2	504.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Marshall Plan - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"w
+1.0
+role:1.0; 
+
+3	262.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Country code top-level domain - Wikipedia</title>
+<script>document.documentElement.className="clien
+1.0
+role:1.0; 
+
+4	276.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Parliamentary system - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLC
+1.0
+role:1.0; 
+
+5	510.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>India - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFr
+1.0
+role:1.0; 
+
+
+
+class
+['class']
+1	289.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Liverpool - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBre
+1.0
+class:1.0; 
+
+2	504.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Marshall Plan - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"w
+1.0
+class:1.0; 
+
+3	262.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Country code top-level domain - Wikipedia</title>
+<script>document.documentElement.className="clien
+1.0
+class:1.0; 
+
+4	276.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Parliamentary system - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLC
+1.0
+class:1.0; 
+
+5	510.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>India - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFr
+1.0
+class:1.0; 
+
+
+
+team
+['team']
+1	289.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Liverpool - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBre
+1.0
+team:1.0; 
+
+35	883.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Hydrogen - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBrea
+1.0
+team:1.0; 
+
+53	539.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Iraq War - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBrea
+1.0
+team:1.0; 
+
+69	842.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Airbus UK - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBre
+1.0
+team:1.0; 
+
+113	516.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Culture of the United Kingdom - Wikipedia</title>
+<script>document.documentElement.className="clien
+1.0
+team:1.0; 
+
+
+
+network successful
+['network', 'successful']
+113	516.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Culture of the United Kingdom - Wikipedia</title>
+<script>document.documentElement.className="clien
+1.2840327639372089
+network:0.408248290463863; successful:0.408248290463863; 
+
+1	289.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Liverpool - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBre
+1.0233345472033855
+network:0.408248290463863; successful:0.408248290463863; 
+
+76	881.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Quantum gravity - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={
+0.5812521590998742
+network:0.408248290463863; successful:0.0; 
+
+810	901.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Electrical telegraph - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLC
+0.5773502691896258
+network:0.408248290463863; successful:0.0; 
+
+9	935.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>High Speed 2 - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wg
+0.5728446999556812
+network:0.408248290463863; successful:0.0; 
+
+
+
+World Flags
+['World', 'Flags']
+306	410.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>History of the United Kingdom - Wikipedia</title>
+<script>document.documentElement.className="clien
+1.7555015291377032
+World:0.5122300765192288; Flags:0.5122300765192288; 
+
+575	424.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>History of the United Kingdom - Wikipedia</title>
+<script>document.documentElement.className="clien
+1.7555015291377032
+World:0.5122300765192288; Flags:0.5122300765192288; 
+
+27	302.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>British Empire - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"
+1.6489636640082947
+World:0.5122300765192288; Flags:0.5122300765192288; 
+
+650	409.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>British Empire - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"
+1.6489636640082947
+World:0.5122300765192288; Flags:0.5122300765192288; 
+
+972	454.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>British Empire - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"
+1.6489636640082947
+World:0.5122300765192288; Flags:0.5122300765192288; 
+
+
+
+mini events
+['Community', 'blue']
+785	323.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>European Economic Community - Wikipedia</title>
+<script>document.documentElement.className="client-
+2.0671247456630515
+Community:0.5359242855945248; blue:0.5359242855945248; 
+
+815	524.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>European Communities - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLC
+1.9489965094289514
+Community:0.5359242855945248; blue:0.5359242855945248; 
+
+789	322.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>European Union - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"
+1.8673027407054616
+Community:0.5359242855945248; blue:0.5359242855945248; 
+
+947	520.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>European integration - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLC
+1.8289288427413024
+Community:0.5359242855945248; blue:0.5359242855945248; 
+
+784	337.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>People of Northern Ireland - Wikipedia</title>
+<script>document.documentElement.className="client-j
+1.7801954263943598
+Community:0.5359242855945248; blue:0.5359242855945248; 
+
+
+
+mini events
+['mini', 'events']
+298	606.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Climate of the United Kingdom - Wikipedia</title>
+<script>document.documentElement.className="clien
+0.7603634865697186
+mini:0.3490767314513884; events:0.3490767314513884; 
+
+769	690.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Elections in the United Kingdom - Wikipedia</title>
+<script>document.documentElement.className="cli
+0.6410283390209206
+mini:0.3490767314513884; events:0.3490767314513884; 
+
+628	187.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>London - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakF
+0.6144859191348209
+mini:0.3490767314513884; events:0.3490767314513884; 
+
+322	820.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Market economy - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"
+0.6140304378090817
+mini:0.0; events:0.3490767314513884; 
+
+722	436.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Laissez-faire - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"w
+0.6140304378090817
+mini:0.0; events:0.3490767314513884; 
+
+
+
+red high Bank
+['red', 'high', 'Bank']
+298	606.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Climate of the United Kingdom - Wikipedia</title>
+<script>document.documentElement.className="clien
+1.9233442653927777
+red:0.21363342834711901; high:0.21363342834711901; Bank:0.0; 
+
+554	6.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>United Kingdom - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"
+1.7162837557195587
+red:0.21363342834711901; high:0.21363342834711901; Bank:0.21363342834711901; 
+
+628	187.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>London - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakF
+1.5470780984523231
+red:0.21363342834711901; high:0.21363342834711901; Bank:0.0; 
+
+1	289.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Liverpool - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBre
+1.3706694209829418
+red:0.21363342834711901; high:0.21363342834711901; Bank:0.21363342834711901; 
+
+789	322.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>European Union - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"
+1.3062653478564166
+red:0.21363342834711901; high:0.0; Bank:0.21363342834711901; 
+
+
+
+clog giant Triangulum
+['clog', 'giant', 'Triangulum']
+35	883.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Hydrogen - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBrea
+1.427007778324987
+clog:0.22720968120651366; giant:0.22720968120651366; Triangulum:0.22720968120651366; 
+
+92	658.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>South Georgia and the South Sandwich Islands - Wikipedia</title>
+<script>document.documentElement.c
+0.46804742303367636
+clog:0.0; giant:0.22720968120651366; Triangulum:0.0; 
+
+720	344.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Stonehenge - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBr
+0.32936323106994897
+clog:0.0; giant:0.22720968120651366; Triangulum:0.0; 
+
+993	870.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Charles Darwin - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"
+0.3216397401541569
+clog:0.0; giant:0.22720968120651366; Triangulum:0.0; 
+
+398	548.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>China - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFr
+0.29905518780370954
+clog:0.0; giant:0.22720968120651366; Triangulum:0.0; 
+
+
+
+progressive control War
+['progressive', 'control', 'War']
+6	538.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>War in Afghanistan (2001–present) - Wikipedia</title>
+<script>document.documentElement.className="c
+2.1297121980592157
+progressive:0.5872793391559809; control:0.5872793391559809; War:0.5872793391559809; 
+
+140	463.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>World War I - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgB
+2.12178127688831
+progressive:0.5872793391559809; control:0.5872793391559809; War:0.5872793391559809; 
+
+980	482.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Allies of World War II - Wikipedia</title>
+<script>document.documentElement.className="client-js";R
+2.1056858139360055
+progressive:0.5872793391559809; control:0.5872793391559809; War:0.5872793391559809; 
+
+736	807.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Cold War - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBrea
+2.100666454797389
+progressive:0.5872793391559809; control:0.5872793391559809; War:0.5872793391559809; 
+
+137	477.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Nazi Germany - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wg
+2.0842139355582803
+progressive:0.5872793391559809; control:0.5872793391559809; War:0.5872793391559809; 
+
+
+
