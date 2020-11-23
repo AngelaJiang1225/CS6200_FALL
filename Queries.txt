@@ -1,10 +1,30 @@
-role
-class
-team
-network successful
-World Flags
-Community blue
-mini events
-red high Bank
-clog giant Triangulum
-progressive control War
+﻿1        two sum                trying to look for the question with title of  “two sum”
+2        sum                trying to look for the questions that have word “sum” in title or description
+3        23                trying to look for the question with id of 23
+4        LEDs                trying to look for the question with description containing word “LEDs”
+5        microsoft        trying to look for the interview questions of Microsoft company
+6        microsoft online                trying to look for the online interview questions of Microsoft company
+7        microsoft onsite                trying to look for onsite interview questions of Microsoft company
+8        microsoft OA                trying to look for online assessments of  Microsoft company
+9        phone screen                trying to look for all interview questions in the form of phone   screen
+10        facebook phone screen                trying to look for phone screen interviews of Facebook company
+11        new grad                trying to look for interview questions for new graduates
+12        intern                trying to look for interview questions for interns
+13        summer 2020                trying to look for interview questions in summer 2020 
+14        facebook amazon                trying to look for comparison of the two company
+15        java                trying to look for interview questions coded in java language
+16        system design                trying to look for interview questions of “system design” tag
+17        reject experience                trying to look for interview experience of reject status
+18        fun                 trying to look for interview experience that have evaluation with  word “fun” in title or comments
+19        microsoft sde1 salary                trying to look for salaries of position SDE1 in Microsoft company
+20        microsoft salary seattle                trying to look for salaries of  Microsoft company in Seattle
+21        facebook signing bonus seattle                trying to look for signing bonus of Facebook company in Seattle
+22        Google India compensation                trying to look for compensation of Google company in India
+23        work remote new hire                trying to look for posts regarding new hires’ experience of working remotely
+24        career-advice                trying to look for posts about software engineers’ career advice
+25        google interview tip                trying to look for posts about google’s interview tips
+26        contest rules                trying to look for general discussion about contest rules
+27        system design product design                trying to look for the comparison between system design and product design
+28        test cases                trying to look for general discussion about test cases
+29        leetcode help                trying to look for  some support and help information in leetcode platform
+30        Time Limit Exceeded error solution                trying to look for the solution of time limit exceeded error solution
