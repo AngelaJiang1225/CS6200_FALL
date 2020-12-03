@@ -1,0 +1,300 @@
+﻿Information Need 1
+1. Rock of Ages musical future tickets
+2. Google, Bing
+3. The number of duplicates removed when results were pooled: 2
+4. The final pool size after duplicates are removed: 14
+5. The total number of relevant results: 9
+6. 
+
+Number
+	Result URL 
+	Is it relevant?
+	Relevance : why?
+	1
+	https://rockofagesmusical.com/
+	yes
+	It has direct links to buy tickets of 2021 for the musical.
+	2
+	https://rockofagesmusical.com/tickets/
+	yes
+	It has the same link of the url to buy tickets above. 
+	3
+	https://www.telecharge.com/Off-Broadway/Rock-of-Ages/Overview
+	no
+	It lists the past musicals in 2019, not 2021.
+	4
+	https://www.stubhub.com/rock-of-ages-atlanta-tickets/performer/100282433/
+
+
+	no
+	It only provides information about the musical in Atlanta without links to buy tickets.
+	5
+	https://www.ticketsmarter.com/rock-of-ages
+	yes
+	It provides a search engine that lists and enables filtering of all tickets of the musical in 2021.
+	6
+	https://www.headout.com/broadway/rock-of-ages-e-10604/
+	no
+	It only have information and comments about the musical.
+	7
+	http://www.musicaltheatrenews.com/rock-of-ages-tour.html
+	yes
+	It lists information about the future  musical show and links to buy tickets of 2021.
+	8
+	https://www.stereoboard.com/rock-of-ages-tickets/new-york
+	no
+	It mainly has information on the accommodation where the musical is held, not the musical tickets to buy.
+	9
+	https://www.ticketmaster.com/rock-of-ages-touring-tickets/artist/1291934
+
+
+	yes
+	Provides information and a direct platform to book tickets for the 2021 musical.
+	10
+	https://www.ticketnetwork.com/performers/rock-of-ages-tickets
+	yes
+	It offers tickets for the musical in the US. We can directly book tickets here.
+	11
+	https://www.cheapoticketing.com/performers/rock-of-ages
+	yes
+	It offers tours, schedules, and tickets for the musical in US. We can directly book tickets 
+here.
+	12
+	https://www.stubhub.com/rock-of-ages-tickets/grouping/377745/
+	yes
+	Provides information and a direct platform to book tickets for the 2021 musical.
+	13
+	https://www.tickets4musical.com/rock-of-ages-tickets
+
+
+	yes
+	Provides a link to book tickets for the 2021 musical.
+	14
+	https://www.rockofageshollywood.com/
+	no
+	Only dead links to book tickets.
+	
+
+7. Metric
+	Search Engine 1 = Google
+	Search Engine 2 = Bing
+	Precision at rank 5 
+	0.4
+	0.8
+	Precision at rank 8
+	0.375
+	0.75
+	Precision at rank 12
+	0.25
+	0.5
+	Average Precision at rank 8
+(calculating only the relevant)
+	0.6095238095238095
+
+
+	0.9150793650793649
+
+
+	
+
+
+
+Information Need 2
+1. colored contact lenses wear clean
+2. Google, Bing
+3. The number of duplicates removed when results were pooled: 0
+4. The final pool size after duplicates are removed: 16
+5. The total number of relevant results: 7
+6. 
+
+
+
+Number
+	Result URL 
+	Is it relevant?
+	Relevance : why?
+	1
+	https://www.everydayhealth.com/skin-beauty/colored-contact-lenses.aspx#:~:text=Even%20if%20you%20don't,24%20hours%20before%20wearing%20them.
+
+
+	yes
+	Detailed instructions on how to wear, clean and wash colored contact lenses
+	2
+	https://www.streetdirectory.com/travel_guide/26309/health/how_to_care_for_color_contact_lenses.html
+	yes
+	Different suggestions for different types of lenses including colored contact lenses.
+	3
+	https://www.nvisioncenters.com/contacts/colored-contact-risks/
+	no
+	Mainly about eye infections and possible hazards
+of colored contact lenses, lack suggestion for wearing and cleaning.
+	4
+	https://honeycolor.com/help/lens-care-tips
+	no
+	Only instructions for wearing contact lenses not colored contact lenses.
+	5
+	https://chiaralens.com/en/blog/how-to-take-care-of-colored-contact-lenses/
+	yes
+	Specified tips for taking care of colored contact lenses.
+	6
+	https://www.cdc.gov/contactlenses/decorative-contacts.html
+	yes
+	Suggestions for cleaning all types of lenses including colored contact lenses.
+	7
+	https://www.lens.me/blog/how-long-can-you-wear-clear-or-colored-contact-lenses-for
+	yes
+	Tips for wearing steps of colored contact lenses.
+	8
+	https://www.1800contacts.com/eyesociety/colored-contact-lenses/
+	yes
+	Detailed tips for both wearing and cleaning colored contact lenses.
+	9
+	https://www.allaboutvision.com/contacts/colored-contacts-astigmatism/
+	yes
+	Professional tips from doctors to wear and clean colored contact lenses.
+	10
+	https://www.refinery29.com/en-us/color-contacts-safety
+	no
+	Mainly talk about how to choose colored contact lenses for festivals, lack information about wearing and cleaning suggestions.
+	11
+	https://www.perfectlensworld.com/articles/clean-contact-lenses-properly
+	no
+	Only about contact lenses not colored ones.
+	12
+	https://www.wikihow.com/Clean-Contact-Lenses
+	no
+	Only about cleaning contact lenses not colored ones.
+	13
+	https://www.youtube.com/watch?v=w4ad2YQOxRU
+	no
+	Video about cleaning contact lenses not colored ones.
+	14
+	https://www.verywellhealth.com/best-contact-lens-solutions-4580534
+	no
+	Only about contact lenses not colored ones.
+	15
+	https://eyecandys.com/
+	no
+	Totally an ecommerce website for selling colored contact lenses, no suggestions for wearing or cleaning.
+	16
+	https://www.freshlookcontacts.com/
+	no
+	Totally an ecommerce website for selling colored contact lenses, no suggestions for wearing or cleaning.
+	
+
+g.
+Metric
+	Search Engine 1 = Google
+	Search Engine 2 = Bing
+	Precision at rank 5 
+	0.6
+	0.2
+	Precision at rank 8
+	0.75
+	0.125
+	Precision at rank 12
+	0.5
+	0.08333333333333333
+	Average Precision at rank 8
+(calculating only the relevant)
+	0.7884920634920635
+	1.0
+	
+
+
+
+Information Need 3
+1. best Italian wine how choose
+2. Google, Bing
+3. The number of duplicates removed when results were pooled: 3
+4. The final pool size after duplicates are removed: 13
+5. The total number of relevant results: 12
+(There is one result duplicated but shares same rank location 6 in both Google and Bing: https://www.winemag.com/2019/06/18/a-beginners-guide-to-italian-wine/)
+6. 
+
+Number
+	Result URL 
+	Is it relevant?
+	Relevance : why?
+	1
+	https://www.thespruceeats.com/top-italian-wines-to-try-3511441
+	yes
+	Lists top brands of Italian wine.
+	2
+	https://www.delish.com/entertaining/wine/advice/g2445/italian-wine-guide/
+	no
+	Only some weird links to urls mainly about wine in other countries and an advertisement for wine tasting classes, no details about how to choose the best Italian wines. 
+	3
+	https://winefolly.com/deep-dive/italian-red-wines/
+	yes
+	Detailed guides for choosing best Italian wines and brands.
+	4
+	https://www.independent.wine/2020/02/19/italian-red-wine-a-complete-guide-to-finding-your-favourite/
+	yes
+	A complete guide to teach people how to choose Italian wines.
+	5
+	https://www.independent.wine/2020/04/07/the-ultimate-guide-to-the-best-italian-wine/
+	yes
+	A complete guide to choose the best Italian wines with maps and tasting notes.
+
+
+	6
+	https://www.winemag.com/2019/06/18/a-beginners-guide-to-italian-wine/
+	yes
+	Guide for beginners to choose best Italian wines based on their labels and countries of origin.
+
+
+	7
+	https://wine.lovetoknow.com/wiki/Best_Italian_Wines
+	yes
+	Detailed tips to choose best Italian wines based on brands and countries of origin.
+	8
+	https://www.winescholarguild.org/blog/top-ten-italian-red-wines-beginner-guide.html
+	yes
+	Provides ten best Italian wines for beginners.
+
+
+	9
+	https://www.reversewinesnob.com/search/label/italy/
+	no
+	It is actually a wine brand’s website to introduce their products.
+
+
+	10
+	https://italianrestaurant.webagency22.com/how-to-choose-an-italian-wine/
+	yes
+	Good article including detailed steps to choose best Italian wines with illustration. 
+	11
+	https://wineindustryadvisor.com/2019/12/11/wine-spectators-selection-of-best-italian-wine-producers
+	yes
+	Recommendations of Italian wine from wine Spectators.
+	12
+	https://blog.vinfolio.com/2018/03/28/the-best-italian-wine-producers-to-add-to-your-collection/
+	yes
+	Introduce top Italian wine producers and their brands.
+
+
+	13
+	https://www.forbes.com/sites/tomhyland/2018/12/21/best-italian-wines-of-the-year/?sh=42e6b1af33d6
+	yes
+	Recommends Best Italian Wines
+of different types with details.
+	
+
+g.
+Metric
+	Search Engine 1 = Google
+	Search Engine 2 = Bing
+	Precision at rank 5 
+	0.8
+	0.4
+	Precision at rank 8
+	0.875
+	0.625
+	Precision at rank 12
+	0.5833333333333334
+	0.4166666666666667
+	Average Precision at rank 8
+(calculating only the relevant)
+	0.8260204081632653
+	0.4692857142857143
